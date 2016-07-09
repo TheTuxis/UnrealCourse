@@ -1,0 +1,4 @@
+/Users/pdalmasso/Documents/Unreal Projects/Curso/Section_02/BullCowGame/FBullCowGame.cpp:9:10: fatal error: 'FBullCowGame.h' file not found
+#include "FBullCowGame.h"
+         ^
+1 error generated.
